@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://laurencerlewis.github.io/csb-dwemb8/static/css/main.0d191814.chunk.css",
+    "main.js": "https://laurencerlewis.github.io/csb-dwemb8/static/js/main.bc4d485b.chunk.js",
+    "main.js.map": "https://laurencerlewis.github.io/csb-dwemb8/static/js/main.bc4d485b.chunk.js.map",
+    "runtime-main.js": "https://laurencerlewis.github.io/csb-dwemb8/static/js/runtime-main.71986f82.js",
+    "runtime-main.js.map": "https://laurencerlewis.github.io/csb-dwemb8/static/js/runtime-main.71986f82.js.map",
+    "static/js/2.5521a142.chunk.js": "https://laurencerlewis.github.io/csb-dwemb8/static/js/2.5521a142.chunk.js",
+    "static/js/2.5521a142.chunk.js.map": "https://laurencerlewis.github.io/csb-dwemb8/static/js/2.5521a142.chunk.js.map",
+    "index.html": "https://laurencerlewis.github.io/csb-dwemb8/index.html",
+    "static/css/main.0d191814.chunk.css.map": "https://laurencerlewis.github.io/csb-dwemb8/static/css/main.0d191814.chunk.css.map",
+    "static/js/2.5521a142.chunk.js.LICENSE.txt": "https://laurencerlewis.github.io/csb-dwemb8/static/js/2.5521a142.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71986f82.js",
+    "static/js/2.5521a142.chunk.js",
+    "static/css/main.0d191814.chunk.css",
+    "static/js/main.bc4d485b.chunk.js"
+  ]
+}
